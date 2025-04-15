@@ -83,7 +83,7 @@ def show_criterias():
 
 
     #### Controverses ESG
-    Nous ne sélectionnons pas les entreprises confrontées à des **controverses ESG majeures**. Pour chaque pilier (Environnement, Social, Gouvernance), nous exigeons une **note de controverse inférieure ou égale à O (modéré à élevé) et au moins une note égale à G (très bien)".
+    Nous ne sélectionnons pas les entreprises confrontées à des **controverses ESG majeures**. Pour chaque pilier (Environnement, Social, Gouvernance), nous exigeons une **note de controverse** inférieure ou égale à O (modéré à élevé) et au moins une note égale à G (très bien)".
 
     #### Implication dans des secteurs controversés
     Nous excluons les entreprises impliquées dans des **secteurs controversés**, à l’exception de celles actives dans le **tabac** ou l’**alcool**, pour lesquelles une **note ESG minimale de AA** est exigée.
